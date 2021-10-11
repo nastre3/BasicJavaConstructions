@@ -1,5 +1,5 @@
 public class App {
-    public static void main(String[] args) {
+    public static void main(StringEx[] args) {
         int i = 10;
         int t = 10;
         if (i >= t) {
