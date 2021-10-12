@@ -5,6 +5,7 @@ public class ArrayEx {
         int[] arr = new int[10]; // после создания размер массива не меняется
         int[] arr2 = new int[]{1, 2, 3, 4, 5}; // инициализационный список
         int[] arr3 = {1, 2, 3, 4, 5, 6}; // инициализационный список
+        int[] arr4 = {}; // создание пустого массива
         System.out.println(arr3); // [ - массив, I - тип массива, хеш после @
         System.out.println(Arrays.toString(arr3)); // вывод массива с конвертацией в строку (.deepToString - многомерные)
 
